@@ -9,7 +9,7 @@
 
 - API REST
 
-- Testing
+- Testing con Mocha
 
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
